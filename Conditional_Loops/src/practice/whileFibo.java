@@ -1,3 +1,5 @@
+package practice;
+
 public class whileFibo {
     public static void main(String[] args) {
         int n = 8;
