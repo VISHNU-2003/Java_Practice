@@ -1,0 +1,47 @@
+Array: collection of the data.
+Multi Dimensional Arrays(2D).
+number of rows is mandatory to initialise while we creating the array.
+an array of arrays is 0th index is an array of itself, ....
+size of the individual array is not necessary to declare always..
+---------------------------------------------------------------------
+Primitive Data Types:
+
+Definition: Primitive data types are the most basic data types in Java. They represent simple values and are predefined by the language.
+
+Examples:
+
+int: Integer data type (e.g., 1, 42).
+float: Single-precision floating-point number (e.g., 3.14f).
+double: Double-precision floating-point number (e.g., 3.14).
+char: Character data type (e.g., 'a', '1').
+boolean: Boolean data type (either true or false).
+Characteristics:
+
+They store single values.
+They are not objects and don't have methods.
+They are stored directly in memory.
+---------------------------------------------------------------------
+Reference (Non-Primitive) Data Types:
+
+Definition: Reference data types refer to objects. They are more complex data types built upon primitive types, allowing the creation of more intricate data structures.
+String: A sequence of characters.
+Arrays: Collections of elements of the same type.
+Classes: Custom user-defined types.
+Interfaces: Defines a set of methods that a class must implement.
+Enums: Special data types for defining collections of constants.
+Collections: Various classes in the java.util package, such as List, Set, Map, etc.
+Characteristics:
+
+They can store multiple values.
+They are objects and have methods.
+They are stored in the heap and accessed through references.
+---------------------------------------------------------------------
+ArrayList: 
+	it is a part of the collection framework.
+	it is used mainly if the array size is not defined 
+Syntax of arrayList:
+	ArrayList<DataType> VariableName = new ArrayList<>(size);
+	or
+	ArrayList<DataType> variableName = new ArrayList<DataType>(size); #mostly not prefered.
+ 	in the brackets() we can mention the size.
+

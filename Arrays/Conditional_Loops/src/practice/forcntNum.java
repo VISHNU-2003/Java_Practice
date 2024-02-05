@@ -1,4 +1,5 @@
 package practice;
+
 import java.math.BigInteger;
 
 public class forcntNum {
