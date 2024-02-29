@@ -1,5 +1,5 @@
 import java.util.*;
-public class ReverseArray {
+public class SwappingArr {
     public static void main(String[] args){
     int[] arr = {1,2,5,6,9,8,100};
     System.out.println("original array " + Arrays.toString(arr));
