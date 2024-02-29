@@ -1,3 +1,5 @@
+//This shows when the user enter the number it give the fibonacci number of that particular position
+
 package BasicAssignment;
 import java.util.Scanner;
 public class Fibonacci_Series {
