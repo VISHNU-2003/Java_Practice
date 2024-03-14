@@ -14,7 +14,6 @@ public class ReverseAnArray {
            end--;
        }
     }
-
     static void swap(int[] arr, int a, int b){
         int x = arr[a];
         arr[a] = arr[b];
