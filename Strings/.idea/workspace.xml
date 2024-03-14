@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5e3d696-a4d0-4186-b69e-dbf76507f203" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MaxVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NUmOccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stringlimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwappingArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primewithBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/questions/src/ReverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/questions/src/ReverseAnArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cD18IZ74FYdW7LSyt8A9RzqK4r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e3d696-a4d0-4186-b69e-dbf76507f203" name="Changes" comment="" />
+      <created>1707631177589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707631177589</updated>
+    </task>
+    <servers />
+  </component>
+</project>
